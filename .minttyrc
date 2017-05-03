@@ -1,0 +1,13 @@
+BoldAsFont=yes
+ForegroundColour=219,219,219
+BackgroundColour=50,50,50
+Transparency=high
+OpaqueWhenFocused=no
+CursorType=block
+Font=Fira Code
+FontWeight=400
+FontSmoothing=default
+Locale=C
+Charset=UTF-8
+Term=xterm-256color
+AllowBlinking=yes
